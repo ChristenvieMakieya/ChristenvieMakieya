@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Chrissy 👋
 
-<!--
-**ChristenvieMakieya/ChristenvieMakieya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business IT Graduate    
+💻 Aspiring Software Engineer | AI Engineer  
+📍 South Africa  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a motivated and detail-oriented technology student with hands-on experience in software development, algorithmic problem solving, and system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical applications that solve real-world problems and continuously improving my skills in backend development, data, and artificial intelligence.
+
+## 🛠️ Technical Skills
+**Languages:** Python, Java, JavaScript, SQL  
+**Frameworks & Tools:** Git, GitHub, Flask (basic), Pandas  
+**Concepts:** OOP, Data Structures, Algorithms, REST APIs  
+**Databases:** MySQL, Firebase  
+
+## 📂 Featured Projects
+🔹 Customer Management System  
+🔹 Bank Queue Management Application  
+🔹 Student Final Grade Calculator  
+🔹 Client Store Website  
+🔹 AI & Data Projects (in progress)
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/christenvie-makieya-441822227
+- Email: christenvie.makieya@gmail.com
+
